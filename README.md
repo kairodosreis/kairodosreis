@@ -3,7 +3,7 @@
 
 ###
 - 👨🏽‍🎓  Analista de QA - TripleTen.
-- 🌱  Cursando ADS 🔄
+- 🌱  Cursando ADS 🔄.
 - 👯  Disponível para vagas remotas e presenciais/híbridas em Belo Horizonte-MG 📍
 - 📔 Dá uma olhada no meu [currículo](https://drive.google.com/file/d/1VQGyOZoSDYYEHxiWjg8DS07-PQfESI_c/view?usp=sharing)
 
